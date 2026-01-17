@@ -6,11 +6,11 @@ FluxSynth is a fully functional, browser-based drum machine and synthesizer. Unl
 
 It is built as a Single File Application, meaning the entire app (HTML, CSS, React Logic, and Audio Engine) lives inside one index.html file.
 
-### 🚀 Quick Start ###
+# 🚀 Quick Start
 
   https://fluxsynth.c0ntra.org/ 
 
-### ✨ Features  ###
+# ✨ Features  ###
 
 8 Synthesized Channels: Kick, Snare, Closed Hat, Open Hat, Low Tom, High Tom, Clap, and Synth Percussion.
 
@@ -24,9 +24,9 @@ Song Mode: Arrange your pattern blocks into a playlist to create full tracks.
 
 Global Effects: Master Delay unit with Time and Feedback controls.
 
-### 🎛️ User Guide
+# 🎛️ User Guide
 
-# 1. The Sequencer
+### 1. The Sequencer
 
 The main grid allows you to program beats.
 
@@ -38,7 +38,7 @@ Click a square to toggle a note on or off.
 
 Visual Playhead: The white border indicates the step currently being played.
 
-# 2. Pattern Blocks (A, B, C, D)
+### 2. Pattern Blocks (A, B, C, D)
 
 You have 4 "memory slots" for your beats, labeled A, B, C, and D.
 
@@ -48,7 +48,7 @@ Editing: When you select a block (e.g., "B"), the grid updates to show the patte
 
 Clear: Click the "Clear" button to wipe the current block's pattern.
 
-3. Song Arranger (Playlist Mode)
+### 3. Song Arranger (Playlist Mode)
 
 This feature allows you to chain blocks together to play a full song.
 
@@ -62,7 +62,7 @@ Loop Block: Plays the currently viewed block (A, B, C, or D) repeatedly.
 
 Play Song: Cycles through your playlist sequence (e.g., A -> A -> B -> A).
 
-4. Sound Design Controls
+### 4. Sound Design Controls
 
 Customize the sound of each instrument using the knobs on the right sidebar.
 
@@ -76,7 +76,7 @@ Vol: Adjusts the volume mix.
 
 Usage: Click and drag a knob up or down to adjust the value.
 
-5. Global Controls
+### 5. Global Controls
 
 Located in the top header.
 
@@ -90,7 +90,7 @@ Time: The speed of the echo.
 
 Fdbk (Feedback): How many times the echo repeats.
 
-🛠️ Technical Details
+# 🛠️ Technical Details
 
 This project demonstrates how to build complex interactive audio applications using standard web technologies without a build step.
 
@@ -118,6 +118,7 @@ Refresh your browser to see changes.
 
 
 This project is open source and available under the MIT License.
+
 
 
 
