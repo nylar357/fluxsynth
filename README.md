@@ -91,17 +91,17 @@ Fdbk (Feedback): How many times the echo repeats.
 
 # 🛠️ Technical Details
 
-This project demonstrates how to build complex interactive audio applications using standard web technologies without a build step.
+#### This project demonstrates how to build complex interactive audio applications using standard web technologies without a build step.
 
-Audio: Native Web Audio API (Oscillators, GainNodes, BiquadFilters, DelayNodes).
+##### Audio: Native Web Audio API (Oscillators, GainNodes, BiquadFilters, DelayNodes).
 
-UI Framework: React 18 (loaded via CDN).
+##### UI Framework: React 18 (loaded via CDN).
 
-Styling: Tailwind CSS (loaded via CDN).
+##### Styling: Tailwind CSS (loaded via CDN).
 
-Compilation: Babel Standalone (transpiles JSX in the browser).
+##### Compilation: Babel Standalone (transpiles JSX in the browser).
 
-modifying the Code
+#### Modifying the Code
 
 Since the code is contained in a single file, you can edit it using any text editor (VS Code, Notepad++, Sublime Text).
 
@@ -117,6 +117,7 @@ Refresh your browser to see changes.
 
 
 This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE) .
+
 
 
 
