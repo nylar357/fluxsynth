@@ -116,6 +116,7 @@ Refresh your browser to see changes.
 # 📄 License
 
 
-This project is open source and available under the ![MIT License](https://www.google.com/search?q=LICENSE) .
+This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE) .
+
 
 
