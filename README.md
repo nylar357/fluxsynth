@@ -5,11 +5,11 @@ FluxSynth is a fully functional, browser-based drum machine and synthesizer. Unl
 
 It is built as a Single File Application, meaning the entire app (HTML, CSS, React Logic, and Audio Engine) lives inside one index.html file.
 
-# 🚀 Quick Start
+# 🚀 ℚ𝕦𝕚𝕔𝕜 𝕊𝕥𝕒𝕣𝕥
 
   https://fluxsynth.c0ntra.org/ 
 
-# ✨ Features  ###
+# ✨ 𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕤
 
 8 Synthesized Channels: Kick, Snare, Closed Hat, Open Hat, Low Tom, High Tom, Clap, and Synth Percussion.
 
@@ -23,7 +23,7 @@ Song Mode: Arrange your pattern blocks into a playlist to create full tracks.
 
 Global Effects: Master Delay unit with Time and Feedback controls.
 
-# 🎛️ User Guide
+# 🎛️ 𝕌𝕤𝕖𝕣 𝔾𝕦𝕚𝕕𝕖
 
 ### 1. The Sequencer
 
@@ -89,7 +89,7 @@ Time: The speed of the echo.
 
 Fdbk (Feedback): How many times the echo repeats.
 
-# 🛠️ Technical Details
+# 🛠️ 𝕋𝕖𝕔𝕙𝕟𝕚𝕔𝕒𝕝 𝔻𝕖𝕥𝕒𝕚𝕝𝕤
 
 #### This project demonstrates how to build complex interactive audio applications using standard web technologies without a build step.
 
@@ -113,10 +113,11 @@ Modify the React components or the AudioEngine class.
 
 Refresh your browser to see changes.
 
-# 📄 License
+# 📄 𝕃𝕚𝕔𝕖𝕟𝕤𝕖
 
 
 This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE) .
+
 
 
 
