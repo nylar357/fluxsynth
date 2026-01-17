@@ -8,13 +8,7 @@ It is built as a Single File Application, meaning the entire app (HTML, CSS, Rea
 
 🚀 Quick Start
 
-Download: Save the index.html file to your computer.
-
-Run: Double-click index.html to open it in your web browser (Chrome, Firefox, Safari, or Edge).
-
-Play: Click the Play button in the top header to start the audio engine.
-
-No installation, Node.js, or server is required.
+  https://fluxsynth.c0ntra.org/ 
 
 ✨ Features
 
@@ -124,6 +118,7 @@ Refresh your browser to see changes.
 
 
 This project is open source and available under the MIT License.
+
 
 
 
