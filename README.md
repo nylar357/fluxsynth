@@ -1,9 +1,4 @@
-█▀▀ █░░ █░█ ▀▄▀ █▀ █▄█ █▄░█ ▀█▀ █░█   ▄▄   █░█░█ █▀▀ █▄▄   ▄▀█ █░█ █▀▄ █ █▀█   █▀▄ █▀█ █░█ █▀▄▀█
-█▀░ █▄▄ █▄█ █░█ ▄█ ░█░ █░▀█ ░█░ █▀█   ░░   ▀▄▀▄▀ ██▄ █▄█   █▀█ █▄█ █▄▀ █ █▄█   █▄▀ █▀▄ █▄█ █░▀░█
-
-█▀▄▀█ ▄▀█ █▀▀ █░█ █ █▄░█ █▀▀
-█░▀░█ █▀█ █▄▄ █▀█ █ █░▀█ ██▄
-
+# 𝔽𝕝𝕦𝕩𝕊𝕪𝕟𝕥𝕙 - 𝕎𝕖𝕓 𝔸𝕦𝕕𝕚𝕠 𝔻𝕣𝕦𝕞 𝕄𝕒𝕔𝕙𝕚𝕟𝕖
 ![preview](img/screenshot.png)
 
 FluxSynth is a fully functional, browser-based drum machine and synthesizer. Unlike traditional sample-based drum machines, FluxSynth uses the Web Audio API to generate sounds in real-time using oscillators and noise buffers. This means it requires no external audio files and offers deep control over sound sculpting.
@@ -122,3 +117,4 @@ Refresh your browser to see changes.
 
 
 This project is open source and available under the MIT License.
+
