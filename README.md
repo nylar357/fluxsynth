@@ -1,4 +1,5 @@
-FluxSynth - Web Audio Drum Machine
+
+# 🅵🅻🆄🆇🆂🆈🅽🆃🅷 - 🆆🅴🅱 🅰🆄🅳🅸🅾 🅳🆁🆄🅼 🅼🅰🅲🅷🅸🅽🅴
 
 ![preview](img/screenshot.png)
 
@@ -118,6 +119,7 @@ Refresh your browser to see changes.
 
 
 This project is open source and available under the MIT License.
+
 
 
 
